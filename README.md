@@ -1,4 +1,4 @@
 # hello-world
 first repo
 
-somthing about something, or something or nothing.
+something about something, or something or nothing.
